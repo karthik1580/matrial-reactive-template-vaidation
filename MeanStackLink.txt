@@ -1,0 +1,23 @@
+https://www.youtube.com/watch?v=1UcLoOD1lRM&list=RDCMUC-8QAzbLcRglXeN_MY9blyw&start_radio=1&t=50 [Using Typescript in Node.js]
+https://www.youtube.com/watch?v=_W-tcVzu-Ms&list=RDCMUC-8QAzbLcRglXeN_MY9blyw&index=18 [Next.js Static Site Generation (SSG)]
+https://www.udemy.com/course/real-world-projects-with-mean-stack/
+https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q
+https://www.youtube.com/watch?v=AqanhZQJfrw [Creating REST APIs with Node.js & TypeScript - part 1] [topmost like] 
+https://www.youtube.com/watch?v=vjf774RKrLc [Mean -Dev Ed][lot of info]
+
+https://www.youtube.com/watch?v=E-GA9GKJWuE [MEAN -- Intellipaat]
+https://www.youtube.com/watch?v=fOkAMBVyuo0 [https://www.youtube.com/watch?v=fOkAMBVyuo0]
+https://livecodestream.dev/post/a-starter-guide-to-building-real-time-applications-with-nodejs/
+
+https://www.youtube.com/watch?v=PmxuvD8ss8Y [Firebase manavan.com]
+https://www.youtube.com/channel/UCZN9jOlj8Dm1nYidAGJuA-w/videos [all Manavan.com]
+https://www.youtube.com/watch?v=c7AUIG1-YY0&list=PLfD4W8QfMd5DhXKriTHyHjNzNSe_1I7g1 [MongoDB Manava.com]
+https://www.youtube.com/watch?v=7zOfaNgJlC0&list=PLfD4W8QfMd5BBpfdhacSxpHsacvOoAI9S [Docker Manavan.com] 
+https://www.youtube.com/watch?v=c7H6JTCDPhs&list=PLfD4W8QfMd5DVxHuQdpGh0EFpqytXVgZV [Full stack MEAN Mnavan.com] 
+https://www.youtube.com/watch?v=XQnpIqHnUzg [Angular-Material Manavan.com]
+
+https://www.youtube.com/watch?v=vyz47fUXcxU [Restful API with NodeJS, Express & Typescript] 
+https://www.youtube.com/watch?v=2jqok-WgelI [Nodejs ai authentiation]
+https://www.youtube.com/watch?v=jUfEn032IL8 [Learn Angular Material - Full Tutorial] 
+
+https://www.youtube.com/watch?v=L72fhGm1tfE [Express js]
