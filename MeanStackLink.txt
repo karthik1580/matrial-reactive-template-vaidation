@@ -21,3 +21,7 @@ https://www.youtube.com/watch?v=2jqok-WgelI [Nodejs ai authentiation]
 https://www.youtube.com/watch?v=jUfEn032IL8 [Learn Angular Material - Full Tutorial] 
 
 https://www.youtube.com/watch?v=L72fhGm1tfE [Express js]
+
+https://www.smashingmagazine.com/2018/10/news-application-with-angular-and-material-design/
+https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fb95aed3-3e20-4908-af4d-2897375b4b46/project-overview.png
+https://newsapi.org/
