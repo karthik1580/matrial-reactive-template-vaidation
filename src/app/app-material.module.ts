@@ -31,44 +31,10 @@ import {MatSortModule} from '@angular/material/sort';
 import {MatStepperModule} from '@angular/material/stepper';
 import {MatTableModule} from '@angular/material/table';
 import {MatTabsModule} from '@angular/material/tabs';
-import {DragDropModule} from '@angular/cdk/drag-drop';
+import {MatToolbarModule} from '@angular/material/toolbar';
 
 @NgModule({
-  declarations: [],
-  imports: [
-    MatAutocompleteModule,
-    MatBadgeModule,
-    MatButtonModule,
-    MatBottomSheetModule,
-    MatButtonToggleModule,
-    MatCardModule,
-    MatCheckboxModule,
-    MatChipsModule,
-    MatDatepickerModule,
-    MatDialogModule,
-    MatDividerModule,
-    MatExpansionModule, 
-    MatFormFieldModule,
-    MatGridListModule,
-    MatIconModule,
-    MatInputModule,
-    MatListModule,
-    MatMenuModule,
-    MatPaginatorModule, 
-    MatProgressBarModule,
-    MatProgressSpinnerModule,
-    MatRadioModule,
-    MatRippleModule,
-    MatSelectModule,
-    MatSidenavModule,
-    MatSlideToggleModule,
-    MatSliderModule,
-    MatSnackBarModule,
-    MatSortModule,
-    MatStepperModule,
-    MatTableModule,
-    MatTabsModule                          
-  ],
+  declarations: [],  
   exports: [
     MatAutocompleteModule,
     MatBadgeModule,
@@ -101,7 +67,8 @@ import {DragDropModule} from '@angular/cdk/drag-drop';
     MatSortModule,
     MatStepperModule,
     MatTableModule,
-    MatTabsModule                          
+    MatTabsModule,
+    MatToolbarModule                       
   ]
 })
 export class AppMaterialModule { }
