@@ -33,10 +33,8 @@ import {MatTableModule} from '@angular/material/table';
 import {MatTabsModule} from '@angular/material/tabs';
 import {MatToolbarModule} from '@angular/material/toolbar';
 
-@NgModule({
-  declarations: [],  
-  exports: [
-    MatAutocompleteModule,
+const angularMaterialModel = [
+  MatAutocompleteModule,
     MatBadgeModule,
     MatButtonModule,
     MatBottomSheetModule,
@@ -68,7 +66,11 @@ import {MatToolbarModule} from '@angular/material/toolbar';
     MatStepperModule,
     MatTableModule,
     MatTabsModule,
-    MatToolbarModule                       
-  ]
+    MatToolbarModule  
+]
+@NgModule({
+  declarations: [],  
+  imports: [ angularMaterialModel],
+  exports: [ angularMaterialModel]
 })
 export class AppMaterialModule { }
