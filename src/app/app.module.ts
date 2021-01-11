@@ -7,6 +7,7 @@ import { ReactiveformComponentComponent } from './_component/reactiveform-compon
 import { TemplateformComponentComponent } from './_component/templateform-component/templateform-component.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AppMaterialModule} from './app-material.module';
+import {FlexLayoutModule} from "@angular/flex-layout";
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { AppMaterialModule} from './app-material.module';
     BrowserModule,
     AppRoutingModule,
     AppMaterialModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    FlexLayoutModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -29,3 +29,7 @@ section {
   justify-content: center;
   width: 120px;
 }
+
+.menu-spacer {
+  flex: 1 1 auto;
+}
